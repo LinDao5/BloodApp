@@ -1,0 +1,2 @@
+- Simple Blood donation App using Firebase DB
+- Implemented with Push notificaion using FCM
